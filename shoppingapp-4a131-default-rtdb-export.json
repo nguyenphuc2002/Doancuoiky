@@ -1,0 +1,354 @@
+{
+  "Admins": {
+    "12": {
+      "name": "tuann",
+      "password": "32",
+      "phone": "12"
+    }
+  },
+  "Cart List": {
+    "Admin view": {
+      "147": {
+        "Products": {
+          "May 18, 202201:00:15 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:00:15 AM",
+            "pname": "Nấu Ăn Gia Đình",
+            "price": "43.500",
+            "quantity": "1",
+            "time": "May 20. 2022"
+          }
+        }
+      },
+      "0900": {
+        "Products": {
+          "May 18, 202201:00:15 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:00:15 AM",
+            "pname": "Nấu Ăn Gia Đình",
+            "price": "43.500",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          },
+          "May 18, 202201:10:18 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:10:18 AM",
+            "pname": "Chuyên Ngành Kỹ Thuật, Ô Tô Và Xe Máy Hiện Đại",
+            "price": "850.000",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          }
+        }
+      },
+      "0905": {
+        "Products": {
+          "May 18, 202201:10:18 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:10:18 AM",
+            "pname": "Chuyên Ngành Kỹ Thuật, Ô Tô Và Xe Máy Hiện Đại",
+            "price": "850.000 VND ",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          }
+        }
+      },
+      "0359404032": {
+        "Products": {
+          "May 18, 202201:10:18 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:10:18 AM",
+            "pname": "Chuyên Ngành Kỹ Thuật, Ô Tô Và Xe Máy Hiện Đại",
+            "price": "850.000 VND ",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          }
+        }
+      }
+    },
+    "User view": {
+      "147": {
+        "Products": {
+          "May 18, 202201:00:15 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:00:15 AM",
+            "pname": "Nấu Ăn Gia Đình",
+            "price": "43.500",
+            "quantity": "1",
+            "time": "May 20. 2022"
+          }
+        }
+      },
+      "0900": {
+        "Products": {
+          "May 18, 202201:00:15 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:00:15 AM",
+            "pname": "Nấu Ăn Gia Đình",
+            "price": "43.500",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          },
+          "May 18, 202201:10:18 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:10:18 AM",
+            "pname": "Chuyên Ngành Kỹ Thuật, Ô Tô Và Xe Máy Hiện Đại",
+            "price": "850.000",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          }
+        }
+      },
+      "0905": {
+        "Products": {
+          "May 18, 202201:10:18 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:10:18 AM",
+            "pname": "Chuyên Ngành Kỹ Thuật, Ô Tô Và Xe Máy Hiện Đại",
+            "price": "850.000 VND ",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          }
+        }
+      },
+      "0359404032": {
+        "Products": {
+          "May 18, 202201:10:18 AM": {
+            "date": "May 20. 2022",
+            "discount": "",
+            "pid": "May 18, 202201:10:18 AM",
+            "pname": "Chuyên Ngành Kỹ Thuật, Ô Tô Và Xe Máy Hiện Đại",
+            "price": "850.000 VND ",
+            "quantity": "2",
+            "time": "May 20. 2022"
+          }
+        }
+      }
+    }
+  },
+  "Orders": {
+    "123456": {
+      "address": "57 Thien Bao",
+      "city": "vku",
+      "date": "May 19. 2022",
+      "name": "Vu Dinh Tan",
+      "phone": "123456",
+      "state": "Not Shipped",
+      "time": "May 19. 2022",
+      "totalAmount": "77.5"
+    },
+    "0905050505": {
+      "address": "Da Nang",
+      "city": "Da Nang",
+      "date": "May 19. 2022",
+      "name": "tuan",
+      "phone": "0905050505",
+      "state": "Not Shipped",
+      "time": "May 19. 2022",
+      "totalAmount": "43.5"
+    }
+  },
+  "Products": {
+    "May 18, 202201:00:15 AM": {
+      "category": "cookingbook",
+      "date": "May 18, 2022",
+      "description": "Dù là bữa ăn được tổ chức dưới bất cứ hình thức nào, mọi người cũng đều ưa thích được thưởng thức một bữa ăn ngon. Nhưng, một bữa ăn ngon thật sự là gì? Chúng phải có sự phong phú và ngon miệng, tạo được sự thích thú, và trên hết tất cả phải có đủ chất dinh dưỡng.",
+      "image": "https://cf.shopee.vn/file/12b34969a5eca39a4f2136182a438e60",
+      "pid": "May 18, 202201:00:15 AM",
+      "pname": "Nấu Ăn Gia Đình",
+      "price": "43.500",
+      "time": "01:00:15 AM"
+    },
+    "May 18, 202201:10:18 AM": {
+      "category": "techbook",
+      "date": "May 18, 2022",
+      "description": "Sách là giáo trình về kỹ thuật ô tô và xe máy hiện đại, từ cơ chế vận hành, cấu tạo máy móc, khả năng ứng dụng đến việc bảo quản, bảo trì, thông tin khác hàng... Cuốn sách giúp học viên và độc giả biết rõ hơn về cách thức hoạt động của ô tô và xe máy hiện đại.",
+      "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/product/c/h/chuyen-nganh-ky-thuat.u335.d20161109.t145652.261980.jpg",
+      "pid": "May 18, 202201:10:18 AM",
+      "pname": "Chuyên Ngành Kỹ Thuật, Ô Tô Và Xe Máy Hiện Đại",
+      "price": "850.000",
+      "time": "01:10:18 AM"
+    },
+    "May 18, 202201:13:01 AM": {
+      "category": "textbook",
+      "date": "May 18, 2022",
+      "description": "Sách Giáo Khoa Hóa Học Lớp 12 được bộ Giáo Dục và Đào Tạo biên soạn và phát hành .Sách gồm chín chương đầy đủ công thức, lý thuyết, phương trình hóa học, chuyên đề hóa học …",
+      "image": "https://baiviet.com/wp-content/uploads/2018/11/giai-bai-tap-sgk-hoa-hoc-lop-12.png",
+      "pid": "May 18, 202201:13:01 AM",
+      "pname": "Sách Giáo Khoa Hóa Học 12",
+      "price": "54.500",
+      "time": "01:13:01 AM"
+    },
+    "May 18, 202201:15:24 AM": {
+      "category": "Lawbook",
+      "date": "May 18, 2022",
+      "description": "Luật An ninh mạng được Quốc hội khóa XIV, kỳ họp thứ 5 thông qua ngày 12/6/2018, có hiệu lực thi hành từ ngày 01/01/2019. Luật gồm 7 chương, 43 điều, quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.",
+      "image": "https://nxbctqg.org.vn/img_data/images/658118738893_luat-an-ninh-mang-hien-hanh.jpg",
+      "pid": "May 18, 202201:15:24 AM",
+      "pname": "Luật An ninh mạng (hiện hành)",
+      "price": "17.000",
+      "time": "01:15:24 AM"
+    },
+    "May 18, 202201:21:07 AM": {
+      "category": "religiousbook",
+      "date": "May 18, 2022",
+      "description": "“Đạo Phật vỡ lòng” cuốn sách được viết với những lời dạy của Đức Phật theo cách mà trẻ nhỏ cũng có thể tiếp nhận. Bạn có thể cùng con tận hưởng nó cùng với một chút tiếng cười, học những triết lý cốt yếu của Đạo Phật - điều điều mà có thể làm thay đổi cuộc sống từ trí tuệ đến đạo đức của mỗi con người.",
+      "image": "https://salt.tikicdn.com/cache/w1200/ts/product/fc/45/3f/07a14b86a1b223a2a306ace4a2ac8c54.jpg",
+      "pid": "May 18, 202201:21:07 AM",
+      "pname": "Đạo Phật Vỡ Lòng",
+      "price": "69.000",
+      "time": "01:21:07 AM"
+    },
+    "May 18, 202201:23:29 AM": {
+      "category": "fashionbook",
+      "date": "May 18, 2022",
+      "description": "Nếu dành tình yêu bất tận cho nước Ý và đặc biệt là kinh đô thời trang Milan, cuốn sách này chính là một cẩm nang du ký trực diện nhất về vẻ đẹp, phong cách thời trang và văn hóa nơi đây.\nBạn yêu thích thể loại du ký, hay chỉ đơn giản yêu cái đẹp xứ sở Milan ?",
+      "image": "https://salt.tikicdn.com/cache/w1200/ts/product/27/e1/36/d9a83006eee49699686fc8cc36e2dc83.jpg",
+      "pid": "May 18, 202201:23:29 AM",
+      "pname": "Milan Thời Thượng",
+      "price": "50.400",
+      "time": "01:23:29 AM"
+    },
+    "May 18, 202201:26:43 AM": {
+      "category": "childrenbooks",
+      "date": "May 18, 2022",
+      "description": "Bộ sách tuyển chọn câu hỏi mà trẻ em tò mò nhất với tiêu trí thú vị , thần kỳ , mới mẻ , đặc sắc . Trong cuốn sách có lời giải thích khoa học , những hình ảnh minh họa đẹp , để trẻ tiếp nhận kiến thức khoa học với tâm trạng thoải mái , vui vẻ . Trong mỗi cột câu hỏi còn thiết kế ô riêng biệt để trẻ trình bày những điều mình hiểu biết về vấn đề đó .",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/53/91/04/dafa81c10c9c5b8e06fe5fc961392bd6.jpg",
+      "pid": "May 18, 202201:26:43 AM",
+      "pname": "10 Vạn Câu Hỏi Vì Sao",
+      "price": "55.000",
+      "time": "01:26:43 AM"
+    },
+    "May 18, 202201:29:20 AM": {
+      "category": "medicinebook",
+      "date": "May 18, 2022",
+      "description": "Y học thực chứng là một trường phái thực hành y học dựa vào chứng cứ khoa học, kinh nghiệm của người thầy thuốc, và những giá trị liên quan đến bệnh nhân. Thực hành y học thực chứng đòi hỏi người thầy thuốc phải biết cách tìm, đánh giá và ứng dụng chứng cứ khoa học.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1c/b9/fb/b95d54c8b3f73487eb9a27f0b6843734.jpg",
+      "pid": "May 18, 202201:29:20 AM",
+      "pname": "Y Học Thực Chứng",
+      "price": "100.000",
+      "time": "01:29:20 AM"
+    },
+    "May 18, 202201:31:39 AM": {
+      "category": "sciencebook",
+      "date": "May 18, 2022",
+      "description": "Sách - Bách khoa toàn thư khoa học\nTại sao pháo lại nổ được? Các loài cây sử dụng ánh sáng mặt trời để tạo ra chất dinh dưỡng như thế nào? điều gì mang lại trí thông minh cho robot? Tất cả các vấn đề đó đều được giải thích và trình bày trong cuốn bách khoa toàn thư khoa học này.\nVới vô số những thông tin thú vị và hình ảnh tuyệt đẹp.",
+      "image": "https://salt.tikicdn.com/ts/tmp/b4/45/38/05974cd5c9370595cb1e0bcbd1bbcfe6.jpg",
+      "pid": "May 18, 202201:31:39 AM",
+      "pname": "Bách khoa toàn thư khoa học",
+      "price": "430.000",
+      "time": "01:31:39 AM"
+    },
+    "May 18, 202201:33:11 AM": {
+      "category": "horrorbook",
+      "date": "May 18, 2022",
+      "description": "Cuốn tiểu thuyết ăn khách mới nhất đến từ Josh Malerman – cha đẻ của bestseller BIRD BOX gây sốt toàn thế giới năm 2018.\nMALORIE – Hành trình chạy trốn tử thần hiện đã được NETFLIX mua bản quyền chuyển thể, phim dự kiến sẽ ra mắt người xem trong thời gian tới.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/d2/51/66/a5fa60f750f0e32c707cc61f29b47cf0.jpg",
+      "pid": "May 18, 202201:33:11 AM",
+      "pname": "Hành Trình Chạy Trốn Tử Thần",
+      "price": "59.500",
+      "time": "01:33:11 AM"
+    },
+    "May 19, 202214:49:27 PM": {
+      "category": "languagebook",
+      "date": "May 19, 2022",
+      "description": "Giáo trình gồm 15 chương được sắp xếp theo chức năng - khái niệm, bao quát các thao tác khái niệm chính cần thiết để phân tích về cú pháp học của tiếng Pháp trong một khái điểm thực dụng và ngữ nghĩa.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/33/0e/5b/24c66182f9085127cabf27b0e4bccac1.jpg",
+      "pid": "May 19, 202214:49:27 PM",
+      "pname": "Giáo trình ngữ pháp tiếng Pháp",
+      "price": "110.000",
+      "time": "14:49:27 PM"
+    },
+    "May 19, 202216:02:00 PM": {
+      "category": "textbook",
+      "date": "May 19, 2022",
+      "description": "Bồi Dưỡng Học Sinh Giỏi Vật Lí Lớp 12 (Tập 1) là tập sách dành cho học sinh khá giỏi, học sinh các lớp chuyên Vật lí, các thầy cô giáo dạy Vật lí ở trường trung học phổ thông quan tâm tới Dao động và sóng cơ học.",
+      "image": "https://salt.tikicdn.com/cache/400x400/media/catalog/product/3/3/335363244758.u3059.d20170620.t094841.950279.jpg.webp",
+      "pid": "May 19, 202216:02:00 PM",
+      "pname": "Bồi Dưỡng Học Sinh Giỏi Vật Lí Lớp 12 (Tập 1)",
+      "price": "30000",
+      "time": "16:02:00 PM"
+    },
+    "May 19, 202221:38:02 PM": {
+      "category": "cookingbook",
+      "date": "May 19, 2022",
+      "description": "hay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppingapp-4a131.appspot.com/o/Product%20Images%2Fimage%3A31May%2019%2C%20202221%3A38%3A02%20PM.jpg?alt=media&token=55f1d12b-7f78-4664-ac70-7911e7eff135",
+      "pid": "May 19, 202221:38:02 PM",
+      "pname": "Sach ngon tinh",
+      "price": "55.000",
+      "time": "21:38:02 PM"
+    }
+  },
+  "Users": {
+    "2": {
+      "name": "ghds",
+      "password": "x",
+      "phone": "2"
+    },
+    "147": {
+      "address": "",
+      "name": "Dinh Xuan Thin",
+      "password": "123",
+      "phone": "147",
+      "phoneOrder": ""
+    },
+    "369": {
+      "name": "Vku",
+      "password": "123",
+      "phone": "369"
+    },
+    "123456": {
+      "address": "57 Thien Bao",
+      "name": "Vu Dinh Tan",
+      "password": "123456",
+      "phone": "123456",
+      "phoneOrder": "123456"
+    },
+    "32143241": {
+      "name": "phuc",
+      "password": "123",
+      "phone": "32143241"
+    },
+    "123456789": {
+      "name": "admin",
+      "password": "admin",
+      "phone": "123456789"
+    },
+    "0900": {
+      "name": "Tuan",
+      "password": "123",
+      "phone": "0900"
+    },
+    "0359404032": {
+      "name": "xuanthin",
+      "password": "thin123",
+      "phone": "0359404032"
+    },
+    "0383485202": {
+      "name": "tuan",
+      "password": "matkhaulagi",
+      "phone": "0383485202"
+    },
+    "0905050505": {
+      "address": "Quang Nam",
+      "name": "Pham Van Tuan",
+      "password": "1234",
+      "phone": "0905050505",
+      "phoneOrder": "0905050504"
+    },
+    "0905090909": {
+      "name": "Tuan",
+      "password": "1234",
+      "phone": "0905090909"
+    }
+  }
+}
